@@ -1,0 +1,6728 @@
+{
+    "Objects": [
+        {
+            "id": 0,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Algod\u00f3n",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": []
+        },
+        {
+            "id": 1,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Lino",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": []
+        },
+        {
+            "id": 2,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Ca\u00f1amo",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": []
+        },
+        {
+            "id": 3,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Ca\u00f1amo poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 2
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Ca\u00f1amo raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 3
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Ca\u00f1amo excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 4
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Duranta",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 2
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Duranta poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 3
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Duranta raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 4
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Duranta excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 5
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Algod\u00f3n rojo",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 6
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Algod\u00f3n rojo poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 7
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Algod\u00f3n rojo raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 8
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Algod\u00f3n rojo excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 9
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lino solar",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 10
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lino solar poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 11
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lino solar raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 12
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lino solar excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 13
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Ca\u00f1amo fantasma",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 14
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Ca\u00f1amo fantasma poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 15
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Ca\u00f1amo fantasma raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 16
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Ca\u00f1amo fantasma excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Fibra"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 17
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "weight": 0.2,
+            "itemValue": 0,
+            "name": "Troncos en bruto",
+            "level": 1,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": []
+        },
+        {
+            "id": 23,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Troncos de abedul",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": []
+        },
+        {
+            "id": 24,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Troncos de casta\u00f1o",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": []
+        },
+        {
+            "id": 25,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Troncos de pino",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": []
+        },
+        {
+            "id": 26,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Troncos de pino poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 25
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Troncos de pino raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 26
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Troncos de pino excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 27
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Troncos de cedro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 25
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Troncos de cedro poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 26
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Troncos de cedro raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 27
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Troncos de cedro excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 28
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Troncos de roble rojo",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 29
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Troncos de roble rojo poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 30
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Troncos de roble rojo raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 31
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Troncos de roble rojo excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 32
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Troncos de corteceniza",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 33
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Troncos de corteceniza poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 34
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Troncos de corteceniza raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 35
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Troncos de corteceniza excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 36
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Troncos de madera blanca",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 37
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Troncos de madera blanca poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 38
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Troncos de madera blanca raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 39
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Troncos de madera blanca excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Madera"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 40
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Mineral de cobre",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": []
+        },
+        {
+            "id": 46,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Mineral de esta\u00f1o",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": []
+        },
+        {
+            "id": 47,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Mineral de hierro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": []
+        },
+        {
+            "id": 48,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Mineral de hierro poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 47
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Mineral de hierro raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 48
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Mineral de hierro excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 49
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Mineral de titanio",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 47
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Mineral de titanio poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 48
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Mineral de titanio raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 49
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Mineral de titanio excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 50
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Mineral de runita",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 51
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Mineral de runita poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 52
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Mineral de runita raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 53
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Mineral de runita excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 54
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Mineral de meteorito",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 55
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Mineral de meteorito poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 56
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Mineral de meteorito raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 57
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Mineral de meteorito excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 58
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Mineral de adamantio",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 59
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Mineral de adamantio poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 60
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Mineral de adamantio raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 61
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Mineral de adamantio excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Mineral"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 62
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Piel dura",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": []
+        },
+        {
+            "id": 68,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Piel fina",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": []
+        },
+        {
+            "id": 69,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Piel media",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": []
+        },
+        {
+            "id": 70,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Piel media poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 69
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Piel media raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 70
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Piel media excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 71
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Piel pesada",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 69
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Piel pesada poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 70
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Piel pesada raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 71
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Piel pesada excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 72
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Piel fornida",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 73
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Piel fornida poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 74
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Piel fornida raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 75
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Piel fornida excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 76
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Piel gruesa",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 77
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Piel gruesa poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 78
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Piel gruesa raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 79
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Piel gruesa excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 80
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Piel resistente",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 81
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Piel resistente poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 82
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Piel resistente raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 83
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Piel resistente excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Piel"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 84
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "weight": 0.2,
+            "itemValue": 0,
+            "name": "Piedra tosca",
+            "level": 1,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": []
+        },
+        {
+            "id": 90,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Piedra caliza",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": []
+        },
+        {
+            "id": 91,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Arsenica",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": []
+        },
+        {
+            "id": 92,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": []
+        },
+        {
+            "id": 93,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 92
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 93
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 94
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 92
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 93
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 94
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 95
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 96
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 97
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 98
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 99
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 100
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 101
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 102
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 103
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 104
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 105
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 106
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Roca"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 107
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Tela simple",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": []
+        },
+        {
+            "id": 113,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Tela pulcra",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 112
+                },
+                {
+                    "quantity": 2,
+                    "item": 1
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tela Fina",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 112
+                },
+                {
+                    "quantity": 2,
+                    "item": 2
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tela Fina poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 112
+                },
+                {
+                    "quantity": 2,
+                    "item": 3
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tela Fina raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 112
+                },
+                {
+                    "quantity": 2,
+                    "item": 4
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tela Fina excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 112
+                },
+                {
+                    "quantity": 2,
+                    "item": 5
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tela decorada",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 114
+                },
+                {
+                    "quantity": 3,
+                    "item": 6
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tela decorada poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 115
+                },
+                {
+                    "quantity": 3,
+                    "item": 7
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tela decorada raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 116
+                },
+                {
+                    "quantity": 3,
+                    "item": 8
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tela decorada excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 117
+                },
+                {
+                    "quantity": 3,
+                    "item": 9
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tela Suntosa",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 118
+                },
+                {
+                    "quantity": 4,
+                    "item": 10
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tela Suntosa poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 119
+                },
+                {
+                    "quantity": 4,
+                    "item": 11
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tela Suntosa raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 120
+                },
+                {
+                    "quantity": 4,
+                    "item": 12
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tela Suntosa excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 121
+                },
+                {
+                    "quantity": 4,
+                    "item": 13
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tela Opulenta",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 122
+                },
+                {
+                    "quantity": 5,
+                    "item": 14
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tela Opulenta poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 123
+                },
+                {
+                    "quantity": 5,
+                    "item": 15
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tela Opulenta raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 124
+                },
+                {
+                    "quantity": 5,
+                    "item": 16
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tela Opulenta excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 125
+                },
+                {
+                    "quantity": 5,
+                    "item": 17
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tela barroca",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 126
+                },
+                {
+                    "quantity": 5,
+                    "item": 18
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tela barroca poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 127
+                },
+                {
+                    "quantity": 5,
+                    "item": 19
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tela barroca raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 128
+                },
+                {
+                    "quantity": 5,
+                    "item": 20
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tela barroca excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tela"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 129
+                },
+                {
+                    "quantity": 5,
+                    "item": 21
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Tablas de abedul",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": []
+        },
+        {
+            "id": 135,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Tablas de casta\u00f1o",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 134
+                },
+                {
+                    "quantity": 2,
+                    "item": 24
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tablas de pino",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 134
+                },
+                {
+                    "quantity": 2,
+                    "item": 25
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tablas de pino poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 134
+                },
+                {
+                    "quantity": 2,
+                    "item": 26
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tablas de pino raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 134
+                },
+                {
+                    "quantity": 2,
+                    "item": 27
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Tablas de pino excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 134
+                },
+                {
+                    "quantity": 2,
+                    "item": 28
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tablas de cedro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 136
+                },
+                {
+                    "quantity": 3,
+                    "item": 29
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tablas de cedro poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 137
+                },
+                {
+                    "quantity": 3,
+                    "item": 30
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tablas de cedro raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 138
+                },
+                {
+                    "quantity": 3,
+                    "item": 31
+                }
+            ]
+        },
+        {
+            "id": 143,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Tablas de cedro excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 139
+                },
+                {
+                    "quantity": 3,
+                    "item": 32
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tablas de roble rojo",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 140
+                },
+                {
+                    "quantity": 4,
+                    "item": 33
+                }
+            ]
+        },
+        {
+            "id": 145,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tablas de roble rojo poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 141
+                },
+                {
+                    "quantity": 4,
+                    "item": 34
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tablas de roble rojo raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 142
+                },
+                {
+                    "quantity": 4,
+                    "item": 35
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Tablas de roble rojo excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 143
+                },
+                {
+                    "quantity": 4,
+                    "item": 36
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tablas de corteceniza",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 144
+                },
+                {
+                    "quantity": 5,
+                    "item": 37
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tablas de corteceniza poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 145
+                },
+                {
+                    "quantity": 5,
+                    "item": 38
+                }
+            ]
+        },
+        {
+            "id": 150,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tablas de corteceniza raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 146
+                },
+                {
+                    "quantity": 5,
+                    "item": 39
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Tablas de corteceniza excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 147
+                },
+                {
+                    "quantity": 5,
+                    "item": 40
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tablas de madera blanca",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 148
+                },
+                {
+                    "quantity": 5,
+                    "item": 41
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tablas de madera blanca poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 149
+                },
+                {
+                    "quantity": 5,
+                    "item": 42
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tablas de madera blanca raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 150
+                },
+                {
+                    "quantity": 5,
+                    "item": 43
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Tablas de madera blanca excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Tablas"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 151
+                },
+                {
+                    "quantity": 5,
+                    "item": 44
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Lingote de cobre",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": []
+        },
+        {
+            "id": 157,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Lingote de esta\u00f1o",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 156
+                },
+                {
+                    "quantity": 2,
+                    "item": 46
+                }
+            ]
+        },
+        {
+            "id": 158,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Lingote de hierro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 156
+                },
+                {
+                    "quantity": 2,
+                    "item": 47
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Lingote de hierro poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 156
+                },
+                {
+                    "quantity": 2,
+                    "item": 48
+                }
+            ]
+        },
+        {
+            "id": 160,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Lingote de hierro raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 156
+                },
+                {
+                    "quantity": 2,
+                    "item": 49
+                }
+            ]
+        },
+        {
+            "id": 161,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Lingote de hierro excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 156
+                },
+                {
+                    "quantity": 2,
+                    "item": 50
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Lingote de titanio",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 158
+                },
+                {
+                    "quantity": 3,
+                    "item": 51
+                }
+            ]
+        },
+        {
+            "id": 163,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Lingote de titanio poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 159
+                },
+                {
+                    "quantity": 3,
+                    "item": 52
+                }
+            ]
+        },
+        {
+            "id": 164,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Lingote de titanio raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 160
+                },
+                {
+                    "quantity": 3,
+                    "item": 53
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Lingote de titanio excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 161
+                },
+                {
+                    "quantity": 3,
+                    "item": 54
+                }
+            ]
+        },
+        {
+            "id": 166,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Lingote de runita",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 162
+                },
+                {
+                    "quantity": 4,
+                    "item": 55
+                }
+            ]
+        },
+        {
+            "id": 167,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Lingote de runita poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 163
+                },
+                {
+                    "quantity": 4,
+                    "item": 56
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Lingote de runita raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 164
+                },
+                {
+                    "quantity": 4,
+                    "item": 57
+                }
+            ]
+        },
+        {
+            "id": 169,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Lingote de runita excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 165
+                },
+                {
+                    "quantity": 4,
+                    "item": 58
+                }
+            ]
+        },
+        {
+            "id": 170,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lingote de meteorito",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 166
+                },
+                {
+                    "quantity": 5,
+                    "item": 59
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lingote de meteorito poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 167
+                },
+                {
+                    "quantity": 5,
+                    "item": 60
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lingote de meteorito raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 168
+                },
+                {
+                    "quantity": 5,
+                    "item": 61
+                }
+            ]
+        },
+        {
+            "id": 173,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Lingote de meteorito excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 169
+                },
+                {
+                    "quantity": 5,
+                    "item": 62
+                }
+            ]
+        },
+        {
+            "id": 174,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Lingote de adamantio",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 170
+                },
+                {
+                    "quantity": 5,
+                    "item": 63
+                }
+            ]
+        },
+        {
+            "id": 175,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Lingote de adamantio poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 171
+                },
+                {
+                    "quantity": 5,
+                    "item": 64
+                }
+            ]
+        },
+        {
+            "id": 176,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Lingote de adamantio raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 172
+                },
+                {
+                    "quantity": 5,
+                    "item": 65
+                }
+            ]
+        },
+        {
+            "id": 177,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Lingote de adamantio excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Lingote"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 173
+                },
+                {
+                    "quantity": 5,
+                    "item": 66
+                }
+            ]
+        },
+        {
+            "id": 178,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Cuero firme",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": []
+        },
+        {
+            "id": 179,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Cuero grueso",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 178
+                },
+                {
+                    "quantity": 2,
+                    "item": 68
+                }
+            ]
+        },
+        {
+            "id": 180,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Cuero trabajado",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 178
+                },
+                {
+                    "quantity": 2,
+                    "item": 69
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Cuero trabajado poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 178
+                },
+                {
+                    "quantity": 2,
+                    "item": 70
+                }
+            ]
+        },
+        {
+            "id": 182,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Cuero trabajado raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 178
+                },
+                {
+                    "quantity": 2,
+                    "item": 71
+                }
+            ]
+        },
+        {
+            "id": 183,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Cuero trabajado excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 178
+                },
+                {
+                    "quantity": 2,
+                    "item": 72
+                }
+            ]
+        },
+        {
+            "id": 184,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Cuero curtido",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 180
+                },
+                {
+                    "quantity": 3,
+                    "item": 73
+                }
+            ]
+        },
+        {
+            "id": 185,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Cuero curtido poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 181
+                },
+                {
+                    "quantity": 3,
+                    "item": 74
+                }
+            ]
+        },
+        {
+            "id": 186,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Cuero curtido raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 182
+                },
+                {
+                    "quantity": 3,
+                    "item": 75
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Cuero curtido excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 183
+                },
+                {
+                    "quantity": 3,
+                    "item": 76
+                }
+            ]
+        },
+        {
+            "id": 188,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Cuero endurecido",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 184
+                },
+                {
+                    "quantity": 4,
+                    "item": 77
+                }
+            ]
+        },
+        {
+            "id": 189,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Cuero endurecido poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 185
+                },
+                {
+                    "quantity": 4,
+                    "item": 78
+                }
+            ]
+        },
+        {
+            "id": 190,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Cuero endurecido raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 186
+                },
+                {
+                    "quantity": 4,
+                    "item": 79
+                }
+            ]
+        },
+        {
+            "id": 191,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Cuero endurecido excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 187
+                },
+                {
+                    "quantity": 4,
+                    "item": 80
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Cuero reforzado",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 188
+                },
+                {
+                    "quantity": 5,
+                    "item": 81
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Cuero reforzado poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 189
+                },
+                {
+                    "quantity": 5,
+                    "item": 82
+                }
+            ]
+        },
+        {
+            "id": 194,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Cuero reforzado raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 190
+                },
+                {
+                    "quantity": 5,
+                    "item": 83
+                }
+            ]
+        },
+        {
+            "id": 195,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Cuero reforzado excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 191
+                },
+                {
+                    "quantity": 5,
+                    "item": 84
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Cuero fortalecido",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 192
+                },
+                {
+                    "quantity": 5,
+                    "item": 85
+                }
+            ]
+        },
+        {
+            "id": 197,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Cuero fortalecido poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 193
+                },
+                {
+                    "quantity": 5,
+                    "item": 86
+                }
+            ]
+        },
+        {
+            "id": 198,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Cuero fortalecido raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 194
+                },
+                {
+                    "quantity": 5,
+                    "item": 87
+                }
+            ]
+        },
+        {
+            "id": 199,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "Cuero fortalecido excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Cuero"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 195
+                },
+                {
+                    "quantity": 5,
+                    "item": 88
+                }
+            ]
+        },
+        {
+            "id": 200,
+            "weight": 0.2,
+            "itemValue": 2,
+            "name": "Piedra caliza",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": []
+        },
+        {
+            "id": 201,
+            "weight": 0.3,
+            "itemValue": 2,
+            "name": "Arsenica",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 200
+                },
+                {
+                    "quantity": 2,
+                    "item": 91
+                }
+            ]
+        },
+        {
+            "id": 202,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 200
+                },
+                {
+                    "quantity": 2,
+                    "item": 92
+                }
+            ]
+        },
+        {
+            "id": 203,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino poco com\u00fan",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 200
+                },
+                {
+                    "quantity": 2,
+                    "item": 93
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino raro",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 200
+                },
+                {
+                    "quantity": 2,
+                    "item": 94
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "weight": 0.5,
+            "itemValue": 4,
+            "name": "Travertino excepcional",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 200
+                },
+                {
+                    "quantity": 2,
+                    "item": 95
+                }
+            ]
+        },
+        {
+            "id": 206,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 202
+                },
+                {
+                    "quantity": 3,
+                    "item": 96
+                }
+            ]
+        },
+        {
+            "id": 207,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito poco com\u00fan",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 203
+                },
+                {
+                    "quantity": 3,
+                    "item": 97
+                }
+            ]
+        },
+        {
+            "id": 208,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito raro",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 204
+                },
+                {
+                    "quantity": 3,
+                    "item": 98
+                }
+            ]
+        },
+        {
+            "id": 209,
+            "weight": 0.8,
+            "itemValue": 5,
+            "name": "Granito excepcional",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 205
+                },
+                {
+                    "quantity": 3,
+                    "item": 99
+                }
+            ]
+        },
+        {
+            "id": 210,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 206
+                },
+                {
+                    "quantity": 4,
+                    "item": 100
+                }
+            ]
+        },
+        {
+            "id": 211,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra poco com\u00fan",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 207
+                },
+                {
+                    "quantity": 4,
+                    "item": 101
+                }
+            ]
+        },
+        {
+            "id": 212,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra raro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 208
+                },
+                {
+                    "quantity": 4,
+                    "item": 102
+                }
+            ]
+        },
+        {
+            "id": 213,
+            "weight": 1.1,
+            "itemValue": 8,
+            "name": "Pizarra excepcional",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 209
+                },
+                {
+                    "quantity": 4,
+                    "item": 103
+                }
+            ]
+        },
+        {
+            "id": 214,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 210
+                },
+                {
+                    "quantity": 5,
+                    "item": 104
+                }
+            ]
+        },
+        {
+            "id": 215,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto poco com\u00fan",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 211
+                },
+                {
+                    "quantity": 5,
+                    "item": 105
+                }
+            ]
+        },
+        {
+            "id": 216,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto raro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 212
+                },
+                {
+                    "quantity": 5,
+                    "item": 106
+                }
+            ]
+        },
+        {
+            "id": 217,
+            "weight": 1.7,
+            "itemValue": 12,
+            "name": "Basalto excepcional",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 213
+                },
+                {
+                    "quantity": 5,
+                    "item": 107
+                }
+            ]
+        },
+        {
+            "id": 218,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 214
+                },
+                {
+                    "quantity": 5,
+                    "item": 108
+                }
+            ]
+        },
+        {
+            "id": 219,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol poco com\u00fan",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 215
+                },
+                {
+                    "quantity": 5,
+                    "item": 109
+                }
+            ]
+        },
+        {
+            "id": 220,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol raro",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 216
+                },
+                {
+                    "quantity": 5,
+                    "item": 110
+                }
+            ]
+        },
+        {
+            "id": 221,
+            "weight": 2.6,
+            "itemValue": 25,
+            "name": "M\u00e1rmol excepcional",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Resource",
+                "obj": "Bloque"
+            },
+            "build": [
+                {
+                    "quantity": 1,
+                    "item": 217
+                },
+                {
+                    "quantity": 5,
+                    "item": 111
+                }
+            ]
+        },
+        {
+            "id": 222,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Novato",
+            "level": 2,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 156
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 223,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Obrero",
+            "level": 3,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 157
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 224,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 158
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 225,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 159
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 226,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 160
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 227,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 161
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 228,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 1,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 158
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 229,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 1,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 159
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 230,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 1,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 160
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 231,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 1,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 161
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 232,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 2,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 158
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 233,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 2,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 159
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 234,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 2,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 160
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 235,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 2,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 161
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 236,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 3,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 158
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 237,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 3,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 159
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 238,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 3,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 160
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 239,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 3,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 161
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 240,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 4,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 158
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 241,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 4,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 159
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 242,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 4,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 160
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 243,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Iniciado",
+            "level": 4,
+            "quality": 4,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 161
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 244,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 162
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 245,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 163
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 246,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 164
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 247,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 165
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 248,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 1,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 162
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 249,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 1,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 163
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 250,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 1,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 164
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 251,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 1,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 165
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 252,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 2,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 162
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 253,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 2,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 163
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 254,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 2,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 164
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 255,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 2,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 165
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 256,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 3,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 162
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 257,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 3,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 163
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 258,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 3,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 164
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 259,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 3,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 165
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 260,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 4,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 162
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 261,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 4,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 163
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 262,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 4,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 164
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 263,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Experto",
+            "level": 5,
+            "quality": 4,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 165
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 264,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 166
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 265,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 167
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 266,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 168
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 267,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 169
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 268,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 1,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 166
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 269,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 1,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 167
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 270,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 1,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 168
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 271,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 1,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 169
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 272,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 2,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 166
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 273,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 2,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 167
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 274,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 2,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 168
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 275,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 2,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 169
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 276,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 3,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 166
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 277,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 3,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 167
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 278,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 3,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 168
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 279,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 3,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 169
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 280,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 4,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 166
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 281,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 4,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 167
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 282,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 4,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 168
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 283,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Maestro",
+            "level": 6,
+            "quality": 4,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 169
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 284,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 170
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 285,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 171
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 286,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 172
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 287,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 173
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 288,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 1,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 170
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 289,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 1,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 171
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 290,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 1,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 172
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 291,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 1,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 173
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 292,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 2,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 170
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 293,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 2,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 171
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 294,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 2,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 172
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 295,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 2,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 173
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 296,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 3,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 170
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 297,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 3,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 171
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 298,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 3,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 172
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 299,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 3,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 173
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 300,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 4,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 170
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 301,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 4,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 171
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 302,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 4,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 172
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 303,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Gran maestro",
+            "level": 7,
+            "quality": 4,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 173
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 304,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 174
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 305,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 175
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 306,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 176
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 307,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 0,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 177
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 308,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 1,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 174
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 309,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 1,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 175
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 310,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 1,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 176
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 311,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 1,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 177
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 312,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 2,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 174
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 313,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 2,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 175
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 314,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 2,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 176
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 315,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 2,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 177
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 316,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 3,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 174
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 317,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 3,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 175
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 318,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 3,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 176
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 319,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 3,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 177
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 320,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 4,
+            "enchantment": 0,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 174
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 321,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 4,
+            "enchantment": 1,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 175
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 322,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 4,
+            "enchantment": 2,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 176
+                }
+            ],
+            "creator": null
+        },
+        {
+            "id": 323,
+            "weight": null,
+            "itemValue": null,
+            "name": "Casco de caballero del Anciano",
+            "level": 8,
+            "quality": 4,
+            "enchantment": 3,
+            "object": {
+                "cls": "Armor",
+                "obj": "Casco de placas"
+            },
+            "build": [
+                {
+                    "quantity": 8,
+                    "item": 177
+                }
+            ],
+            "creator": null
+        }
+    ],
+    "Items": [],
+    "Cities": [
+        {
+            "id": 0,
+            "name": "Caerleon",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        },
+        {
+            "id": 1,
+            "name": "Fort Sterling",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        },
+        {
+            "id": 2,
+            "name": "Thetford",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        },
+        {
+            "id": 3,
+            "name": "Martlock",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        },
+        {
+            "id": 4,
+            "name": "Brigewatch",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        },
+        {
+            "id": 5,
+            "name": "Lymhurst",
+            "object": {
+                "cls": "Citie",
+                "obj": "Citie"
+            },
+            "returns": []
+        }
+    ],
+    "Markets": [
+        {
+            "id": 0,
+            "name": "Caerleon Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 0
+        },
+        {
+            "id": 1,
+            "name": "Fort Sterling Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 1
+        },
+        {
+            "id": 2,
+            "name": "Thetford Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 2
+        },
+        {
+            "id": 3,
+            "name": "Martlock Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 3
+        },
+        {
+            "id": 4,
+            "name": "Brigewatch Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 4
+        },
+        {
+            "id": 5,
+            "name": "Lymhurst Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 5
+        },
+        {
+            "id": 6,
+            "name": "Black Market",
+            "object": {
+                "cls": "Market",
+                "obj": "Black Market"
+            },
+            "citie": 0
+        },
+        {
+            "id": 7,
+            "name": "Caerleon Market 2",
+            "object": {
+                "cls": "Market",
+                "obj": "Market"
+            },
+            "citie": 0
+        }
+    ],
+    "PricesObjects": [],
+    "Levels": [
+        "Basico",
+        "Aprendiz",
+        "Novato",
+        "Obrero",
+        "Iniciado",
+        "Experto",
+        "Maestro",
+        "Gran maestro",
+        "Anciano"
+    ],
+    "Qualitys": [
+        "Normal",
+        "Bueno",
+        "Notable",
+        "Sobre saliente",
+        "Obra maestra"
+    ],
+    "Enchantments": [
+        "Normal",
+        "Poco com\u00fan",
+        "Raro",
+        "Excepcional"
+    ]
+}
