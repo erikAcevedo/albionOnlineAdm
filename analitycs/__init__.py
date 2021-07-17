@@ -1,4 +1,4 @@
 import pandas as pd
 
-
-pd.read_json()
+def loadFrame(dbs):
+    print(dbs.objects)

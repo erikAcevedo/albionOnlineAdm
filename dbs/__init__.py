@@ -1,8 +1,6 @@
 import json
 import os
-import cls.Objects as Objects
-import cls.Environment as Environment
-import cls.Analitycs as Analitycs
+from cls import Objects, Environment, Analitycs
 
 SRC_ORG = 'C:/Users/erika/Documents/proyectos/albionProyect_py/v0/'
 SRC_DB = 'dbs/db.json'
