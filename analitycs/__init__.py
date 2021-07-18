@@ -1,6 +1,5 @@
 import pandas as pd
 
-<<<<<<< HEAD
 def loadFrame(dbs,filterCls = None, filterObj = None):
     global dataF
 
@@ -32,7 +31,3 @@ def loadFrame(dbs,filterCls = None, filterObj = None):
             rows.append(n.idObject)
 
     dataF = pd.DataFrame(data,columns=columns)
-=======
-
-pd.read_json()
->>>>>>> parent of 7e19327 (organizacion de clases finalizada)
