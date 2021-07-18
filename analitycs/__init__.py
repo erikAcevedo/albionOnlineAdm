@@ -1,13 +1,11 @@
-from json.encoder import py_encode_basestring
 import pandas as pd
 
 def loadFrame(dbs,filterCls = None, filterObj = None):
-    global dataF
-
+    global data,rows,columns
     objects = []
     rows = []
     data = []
-    columns = ['id','name','level','quality','enchantment','cls','createdDate','markets','price']
+    columns = ['id','name','level','quality','enchantment','cls','createdDate','market','price']
 
     for i in range(0, len(dbs.objects) - 1):
         iObject = dbs.objects[i]
@@ -29,7 +27,7 @@ def loadFrame(dbs,filterCls = None, filterObj = None):
             reg.append(dbs.markets[n.idMarket].name)
             reg.append(n.price)
             data.append(reg)
-            rows.append(n.idObject)
+            rows.append(n.id)
 
-    dataF = pd.DataFrame(data,columns=columns)
+    dataF = pd.DataFrame(data,index=rows,columns=columns)
     return dataF
