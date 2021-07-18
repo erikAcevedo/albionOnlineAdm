@@ -1,14 +1,12 @@
-from datetime import datetime
-
 class Global:
-    def __init__(self,id,object):
+    def __init__(self,id,object,createdDate):
         self.id = id
-        self.dateCrated = datetime.now()
+        self.createdDate = createdDate
         self.object = {'cls':self.__class__.__name__,'obj':object}
 
-class PriceObject(Global):
-    def __init__(self,id,object,idObject,idMarket,price):
-        super().__init__(id,object)
+class ObjectPrice(Global):
+    def __init__(self,id,object,createdDate,idObject,idMarket,price):
+        super().__init__(id,object,createdDate)
         
         self.idObject = idObject
         self.idMarket = idMarket
