@@ -1,18 +1,5 @@
 import pandas as pd
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-pd.read_json()
-=======
-def loadFrame(dbs):
-    print(dbs.objects)
->>>>>>> parent of 192f438 (no se que hice)
-=======
-=======
->>>>>>> parent of c94027c (otra vez?)
 def loadFrame(dbs,filterCls = None, filterObj = None):
     global dataF
 
@@ -44,11 +31,3 @@ def loadFrame(dbs,filterCls = None, filterObj = None):
             rows.append(n.idObject)
 
     dataF = pd.DataFrame(data,columns=columns)
-<<<<<<< HEAD
->>>>>>> parent of c94027c (otra vez?)
-=======
->>>>>>> parent of c94027c (otra vez?)
-=======
-def loadFrame(dbs):
-    print(dbs.objects)
->>>>>>> parent of 192f438 (no se que hice)
