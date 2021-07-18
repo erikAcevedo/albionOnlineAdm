@@ -1,3 +1,4 @@
+from json.encoder import py_encode_basestring
 import pandas as pd
 
 def loadFrame(dbs,filterCls = None, filterObj = None):
@@ -23,11 +24,12 @@ def loadFrame(dbs,filterCls = None, filterObj = None):
             reg.append(iObject.level)
             reg.append(iObject.quality)
             reg.append(iObject.enchantment)
-            reg.append(iObject.object['cls']['obj'])
-            reg.append(n.createdDate)
+            reg.append(iObject.object['cls'])
+            reg.append(n.cratedDate)
             reg.append(dbs.markets[n.idMarket].name)
             reg.append(n.price)
             data.append(reg)
             rows.append(n.idObject)
 
     dataF = pd.DataFrame(data,columns=columns)
+    return dataF
