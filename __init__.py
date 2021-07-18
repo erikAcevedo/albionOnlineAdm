@@ -1,5 +1,5 @@
-import dbs
-import analitycs
+from dbs import *
+from analitycs import *
 import matplotlib.pyplot as plt
 
-dbs.loadDB()
+loadDB()

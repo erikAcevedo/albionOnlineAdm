@@ -1,16 +1,18 @@
-import dbs
-import analitycs
+from dbs import *
+import analitycs as an
 import matplotlib.pyplot as plt
 
-dbs.loadDB()
+loadDB()
 
-dbs.objectsPrices.append(dbs.Analitycs.ObjectPrice(len(dbs.objectsPrices),'ObjectPrice',None,dbs.searchByName('Algodón',dbs.objects).id,dbs.searchByName('Fort Sterling Market',dbs.markets).id,29))
-dbs.objectsPrices.append(dbs.Analitycs.ObjectPrice(len(dbs.objectsPrices),'ObjectPrice',None,dbs.searchByName('Cañamo',dbs.objects).id,dbs.searchByName('Fort Sterling Market',dbs.markets).id,29))
+objectsPrices.append(Analitycs.ObjectPrice(len(objectsPrices),'ObjectPrice',None,searchByName('Algodón',objects).id,searchByName('Fort Sterling Market',markets).id,29))
+objectsPrices.append(Analitycs.ObjectPrice(len(objectsPrices),'ObjectPrice',None,searchByName('Cañamo',objects).id,searchByName('Fort Sterling Market',markets).id,29))
 
 
-analitycs.loadFrame(dbs)
+an.loadFrame()
 
-agrupacion = analitycs.dataF.groupby(['name','market'])['price'].sum()
+
+
+agrupacion = an.dataF.groupby(['name','market'])['price'].sum()
 
 
 agrupacion.plot.bar(x=['name','market'],y='price', rot = 1)

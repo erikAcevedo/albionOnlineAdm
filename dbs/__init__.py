@@ -9,6 +9,15 @@ SRC = os.path.join(SRC_ORG,SRC_DB)
 
 db = {}
 
+objects = []
+levels = []
+qualitys = []
+enchantments = []
+items = []
+cities = []
+markets = []
+objectsPrices = []
+
 def searchByName(nameObject, arr):
     for i in arr:
         if i.name == nameObject:
@@ -28,18 +37,7 @@ def jsonDefault(object):
     return object.__dict__
 
 def loadDB():
-    global levels,qualitys,enchantments,items,cities,objects,markets
 
-    global objectsPrices
-
-    objects = []
-    levels = []
-    qualitys = []
-    enchantments = []
-    items = []
-    cities = []
-    markets = []
-    objectsPrices = []
     
     def loadClass(dbs, obj):
 
