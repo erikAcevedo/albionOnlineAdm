@@ -6700,7 +6700,7 @@
             "citie": 0
         }
     ],
-    "ObjectsPrices": [],
+    "PricesObjects": [],
     "Levels": [
         "Basico",
         "Aprendiz",

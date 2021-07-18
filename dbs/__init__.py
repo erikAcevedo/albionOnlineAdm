@@ -1,8 +1,6 @@
 import json
 import os
-import cls.Objects as Objects
-import cls.Environment as Environment
-import cls.Analitycs as Analitycs
+from cls import Objects, Environment, Analitycs
 
 SRC_ORG = 'C:/Users/erika/Documents/proyectos/albionProyect_py/v0/'
 SRC_DB = 'dbs/db.json'
@@ -11,29 +9,13 @@ SRC = os.path.join(SRC_ORG,SRC_DB)
 
 db = {}
 
-def searchByName(nameObject, arr):
-    for i in arr:
-        if i.name == nameObject:
-            return i
-            break
-
-def searchPriceByObjectName(nameObject):
-    r = []
-    idObject = searchByName(nameObject,objects).id
-
-    for i in objectsPrices:
-        if i.idObject == idObject:
-            r.append(i)
-    
-    return r
-
 def jsonDefault(object):
     return object.__dict__
 
 def loadDB():
     global levels,qualitys,enchantments,items,cities,objects,markets
 
-    global objectsPrices
+    global pricesObjects
 
     objects = []
     levels = []
@@ -42,7 +24,7 @@ def loadDB():
     items = []
     cities = []
     markets = []
-    objectsPrices = []
+    pricesObjects = []
     
     def loadClass(dbs, obj):
 
@@ -102,13 +84,12 @@ def loadDB():
         SRC,
         'r'
     ) as file:
-
         DB = json.load(file)
+        print(DB)
 
     loadClass(DB['Cities'],cities)
     loadClass(DB['Markets'],markets)
     loadClass(DB['Objects'],objects)
-    loadClass(DB['ObjectsPrices'],objectsPrices)
 
     levels = DB['Levels']
     qualitys = DB['Qualitys']
@@ -120,7 +101,8 @@ def loadDB():
     db['Items'] = items
     db['Cities'] = cities
     db['Markets'] = markets
-    db['ObjectsPrices'] = objectsPrices
+
+    db['PricesObjects'] = pricesObjects
 
     db['Levels'] = levels
     db['Qualitys'] = qualitys
