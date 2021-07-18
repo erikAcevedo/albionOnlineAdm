@@ -6700,7 +6700,19 @@
             "citie": 0
         }
     ],
-    "ObjectsPrices": [],
+    "ObjectsPrices": [
+        {
+            "id": 0,
+            "createdDate": "2021-07-18 15:13:18",
+            "object": {
+                "cls": "ObjectPrice",
+                "obj": "ObjectPrice"
+            },
+            "idObject": 0,
+            "idMarket": 0,
+            "price": 28
+        }
+    ],
     "Levels": [
         "Basico",
         "Aprendiz",

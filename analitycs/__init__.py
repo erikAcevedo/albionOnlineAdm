@@ -25,7 +25,7 @@ def loadFrame(dbs,filterCls = None, filterObj = None):
             reg.append(iObject.quality)
             reg.append(iObject.enchantment)
             reg.append(iObject.object['cls'])
-            reg.append(n.cratedDate)
+            reg.append(n.createdDate)
             reg.append(dbs.markets[n.idMarket].name)
             reg.append(n.price)
             data.append(reg)

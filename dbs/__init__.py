@@ -58,10 +58,11 @@ def loadDB():
                     r['object']['obj'],
                     r['returns']
                 ))
-            elif r['object']['cls'] == 'PriceObject':
+            elif r['object']['cls'] == 'ObjectPrice':
                 obj.append(Analitycs.__getattribute__(r['object']['cls'])(
                     r['id'],
                     r['object']['obj'],
+                    r['createdDate'],
                     r['idObject'],
                     r['idMarket'],
                     r['price']
