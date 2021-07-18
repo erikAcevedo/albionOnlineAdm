@@ -100,7 +100,6 @@ def loadDB():
         'r'
     ) as file:
         DB = json.load(file)
-        print(DB)
 
     loadClass(DB['Cities'],cities)
     loadClass(DB['Markets'],markets)
