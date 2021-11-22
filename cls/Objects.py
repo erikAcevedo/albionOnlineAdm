@@ -11,7 +11,7 @@ class Item:
         self.build = build
 
     def largeName(self,dbs):
-        return self.name + ', Nivel ' + str(self.level) + ', ' + dbs.qualitys[self.quality] + ', ' + dbs.enchantments[self.enchantment]
+        return self.name + ' ' + dbs['Qualitys'][self.quality]
 
     def constructionTree(self,dbs,searchInTree=False,execute=0):
         r = []

@@ -1,3 +1,5 @@
+from cls.Environment import Market
+from cls.Analitycs import ObjectsPricesRevision
 from os import name
 from numpy import array, number
 import pandas as pd
@@ -98,7 +100,7 @@ def priceOfTheObjectsInTheSpecificMarkets(objs,mrks):
                     o = objects[obj]
 
                 if not o == None:
-                    if (m.object['obj']=='Principal') or (not principalMarketsOnly):
+                    if (m.object['obj']=='Principal'):
                         a = Analitycs.ObjectPrice(len(objectsPrices),'priceOfTheObjectInTheMarkets',None,o.id,m.id,input('Price of ' + o.name + ' in ' + m.name + ': '))
 
                         objectsPrices.append(a)
@@ -110,3 +112,59 @@ def priceOfTheObjectsInTheSpecificMarkets(objs,mrks):
     if len(priceOfMarkets) == 0:
         objectsPricesRevision.append(Analitycs.ObjectsPricesRevision(len(objectsPricesRevision),'priceOfTheObjectInTheMarkets',None,priceOfMarkets))
         return objectsPricesRevision[len(objectsPricesRevision)-1]
+
+def totalPriceRevision(objRevision):
+    s = 0
+
+    if type(objRevision) == Analitycs.ObjectsPricesRevision:
+        for i in objRevision.objectPrices:
+            s += objectsPrices[i].price
+    elif type(objRevision) == list:
+        for o in objRevision:
+            for i in objRevision.objectPrices:
+                s += objectsPrices[i].price
+    elif type(objRevision) == int:
+        for i in objectsPricesRevision[objRevision].objectPrices:
+            s += objectsPrices[i].price
+
+    return s
+
+
+
+def createRevision(objs,mrks,principalMarketsOnly=True):
+    idRevision = len(objectsPricesRevision)
+
+    def solicitarPrecio(idObject,idMarket):
+        return int(input('Price of ' + objects[idObject].largeName(db) + ' in ' + markets[idMarket].name + ': '))
+
+    def crearPrice(idObject,idMarket):
+        objectsPrices.append(Analitycs.ObjectPrice(len(objectsPrices),'priceOfTheObjectInTheMarkets',None, idObject,idMarket,solicitarPrecio(idObject,idMarket),idRevision))
+
+        return objectsPrices[len(objectsPrices)- 1]
+
+    def solicitarObjectos(objs,idMarket):
+        r = []
+        if type(objs) == int:
+            r.append(crearPrice(objs,idMarket).id)
+        elif type(objs) == list:
+            for o in objs:
+                r.append(crearPrice(o,idMarket).id)
+
+        return r
+
+    O = []
+
+    if type(mrks) == list:
+        for i in mrks:
+            if principalMarketsOnly:
+                if markets[i].object['obj']=='Principal':
+                    O += solicitarObjectos(objs,i)
+            else:
+                O += solicitarObjectos(objs,i)
+    else:
+        if markets[mrks].object['obj']=='Principal':
+            O += solicitarObjectos(objs,mrks)
+    
+    objectsPricesRevision.append(Analitycs.ObjectsPricesRevision(idRevision,"createRevision",None,O))
+
+    return dataJson(objectsPricesRevision[len(objectsPricesRevision)-1])
