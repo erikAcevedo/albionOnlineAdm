@@ -37,3 +37,7 @@ class Armor(Item):
 class Material(Item):
     def __init__(self, id, name, level, enchantment, object, weight, itemValue):
         super().__init__(id, name, level, 0, enchantment, {'cls':self.__class__.__name__,'obj':object}, [], weight, itemValue)
+
+class Consumable(Item):
+    def __init__(self, id, name, level, quality, enchantment, object, build, weight):
+        super().__init__(id, name, level, quality, enchantment, {'cls':self.__class__.__name__,'obj':object}, build, weight, 0)

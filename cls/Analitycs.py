@@ -10,9 +10,20 @@ class Global:
         self.object = {'cls':self.__class__.__name__,'obj':object}
 
 class ObjectPrice(Global):
-    def __init__(self,id,object,createdDate,idObject,idMarket,price):
+    def __init__(self,id,object,createdDate,idObject,idMarket,price,idRevision):
         super().__init__(id,object,createdDate)
         
         self.idObject = idObject
         self.idMarket = idMarket
-        self.price = price
+        self.idRevision = idRevision
+        if price == '':
+            self.price = 0
+        else:
+            self.price = float(price)
+
+
+class ObjectsPricesRevision(Global):
+    def __init__(self,id,object,createdDate,objectPrices):
+        super().__init__(id,object,createdDate)
+        
+        self.objectPrices = objectPrices
